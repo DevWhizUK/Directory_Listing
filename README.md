@@ -1,0 +1,1 @@
+A simple web page I made to help me navigate my localhost easily and clean up my bookmarks. Just save in htdocs then go to "http://localhost/files.php". You can also exclude certain files from view, letting you clear up and customize tour works space
